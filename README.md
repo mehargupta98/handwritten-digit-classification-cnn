@@ -6,7 +6,7 @@ The goal is to classify a given image of a handwritten digit into one of 10 clas
 
 ## 1. About Dataset
 
-We have used MNIST dataset from TensorFlow
+We have used MNIST dataset imported from TensorFlow
 
 The MNIST database of handwritten digits, available from this page, has a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalised and centred in a fixed-size image.
 
